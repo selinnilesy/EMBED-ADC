@@ -1,3 +1,3 @@
 # EMBED-ADC
-THE3 of CENG336, May 2021. <br />
+Analog to Digital Converter. <br />
 ADC, LCD and timers 
